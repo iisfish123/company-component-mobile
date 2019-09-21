@@ -1,2 +1,2 @@
-# company-component-mobile-
+# company-component-mobile
 移动端组件
